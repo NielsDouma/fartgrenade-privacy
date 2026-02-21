@@ -23,8 +23,17 @@ READ/WRITE_EXTERNAL_STORAGE: Required to save and view your prank videos.
 4. Children's Privacy
 Our Service is intended for users aged 13 and above. We do not knowingly collect personally identifiable information from children under 13.
 
-5. Third-Party Services
+Data Deletion Request
+Motion Scare does not store any user data on external servers. All videos and audio recordings are stored locally on your device.
+
+How to delete your data: You can delete recorded videos and custom sounds directly within the app or by using your device's file manager.
+
+Account Deletion: Since the app does not use accounts, simply uninstalling the app will remove all app-associated temporary cache.
+
+Request Support: If you have questions about data removal, you can contact the developer through the contact information provided in the Google Play Store.
+
+6. Third-Party Services
 We use Google AdMob to display advertisements. AdMob may collect and use personalized data (like your Advertising ID) to show relevant ads. Please refer to Google’s Privacy Policy for more details.
 
-6. Contact Us
+7. Contact Us
 If you have any questions about this Privacy Policy, you can contact us via our GitHub profile or developer contact in the Play Store.
